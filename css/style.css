@@ -1,0 +1,84 @@
+body{
+	font-family: 'SegoeUI', sans-serif;
+  background-color: #231F20;
+}
+
+.comand div{
+  font-size: 50px;
+  color: white;
+}
+
+.pozn div{
+  background-color: #FF94BE;
+
+}
+
+.comand, .pozn{
+  vertical-align: top;
+}
+
+.pozn div{
+  text-align: center;
+  height: 70px;
+  padding: 18px;
+  font-size: 25px;
+}
+
+.first_foto{
+  position: relative;
+}
+
+.foto{
+
+}
+
+.foto_discr{
+  position: absolute;
+  top: 100px;
+  left: 175px;
+  color: white;
+}
+
+.name, .pos{
+  margin-bottom: 20px;
+
+}
+
+.name{
+  font-size: 20px;
+  font-weight: bold;
+}
+
+.bg, .bg3{
+	margin-top: 20px;
+	background-color: white;
+}
+
+.about ul, .service ul, .contact ul{
+	padding-left: 0px;
+}
+
+.about ul li, .service ul li, .contact ul li{
+	list-style-type: none;
+}
+
+.site{
+	margin-top: 10px;
+}
+
+.altmetric{
+	margin-bottom: 30px;
+}
+
+.about div, .service div, .contact div{
+	font-family: 'Montserrat', sans-serif;
+	font-size: 22px;
+}
+
+.farfar, .site{
+	color:grey;
+}
+
+.table{
+	border: #FFCD50 solid 5px;
+}
